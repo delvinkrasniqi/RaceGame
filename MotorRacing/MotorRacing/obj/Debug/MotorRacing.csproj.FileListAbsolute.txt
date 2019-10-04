@@ -1,0 +1,8 @@
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\bin\Debug\MotorRacing.exe.config
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\bin\Debug\MotorRacing.exe
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\bin\Debug\MotorRacing.pdb
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\obj\Debug\MotorRacing.MotorRace.resources
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\obj\Debug\MotorRacing.Properties.Resources.resources
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\obj\Debug\MotorRacing.csproj.GenerateResource.Cache
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\obj\Debug\MotorRacing.exe
+C:\Users\krasn\Desktop\RacingGame\MotorRacing\MotorRacing\obj\Debug\MotorRacing.pdb
